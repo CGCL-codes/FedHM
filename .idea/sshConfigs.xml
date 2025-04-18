@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="222.20.94.68" id="2e26c637-03d7-449b-b30b-961a60bec45e" keyPath="$USER_HOME$/.ssh/id_rsa_old" port="50015" nameFormat="DESCRIPTIVE" username="dzyao" useOpenSSHConfig="true" />
+      <sshConfig connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="222.20.94.68" id="2c3fe0c5-7679-4608-8cbd-472c9b1a879c" keyPath="$USER_HOME$/.ssh/id_rsa_old" port="50011" nameFormat="DESCRIPTIVE" username="dzyao" />
+      <sshConfig connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="222.20.94.68" id="e080b730-441d-425c-8a90-db157f5172da" keyPath="$USER_HOME$/.ssh/id_rsa_old" port="50010" nameFormat="DESCRIPTIVE" username="dzyao" useOpenSSHConfig="true" />
+      <sshConfig host="222.20.94.68" id="9800462f-4057-4b69-a9b4-3c1fa5d2c342" keyPath="$USER_HOME$/.ssh/id_rsa_old" port="50013" nameFormat="DESCRIPTIVE" username="dzyao" useOpenSSHConfig="true" />
+    </configs>
+  </component>
+</project>

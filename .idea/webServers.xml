@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="fd3fe769-23e2-43d1-87e0-61df62d2c2be" name="node15">
+        <fileTransfer rootFolder="/home/dzyao/wnpan" accessType="SFTP" host="222.20.94.68" port="50015" sshConfigId="2e26c637-03d7-449b-b30b-961a60bec45e" sshConfig="dzyao@222.20.94.68:50015 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="cca705b3-fdc1-429b-996c-e94c154ecf64" name="node11">
+        <fileTransfer rootFolder="/home/dzyao/wnpan" accessType="SFTP" host="222.20.94.68" port="50011" sshConfigId="2c3fe0c5-7679-4608-8cbd-472c9b1a879c" sshConfig="dzyao@222.20.94.68:50011 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="ad98d5ad-0384-49d4-bb80-378feb84c57d" name="node10">
+        <fileTransfer accessType="SFTP" host="222.20.94.68" port="50010" sshConfigId="e080b730-441d-425c-8a90-db157f5172da" sshConfig="dzyao@222.20.94.68:50010 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="dcb93291-7fb5-43c9-8955-ec36d4c0d3ae" name="3090">
+        <fileTransfer rootFolder="/home/dzyao/wnpan" accessType="SFTP" sshConfigId="df0940b7-8385-45bb-a5df-80151117fc30" sshConfig="dzyao@192.168.162.242:22690 key">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="2a3ffb27-abfb-40b7-8531-5d520a3d5487" name="node13">
+        <fileTransfer rootFolder="/home/dzyao/wnpan" accessType="SFTP" host="222.20.94.68" port="50013" sshConfigId="9800462f-4057-4b69-a9b4-3c1fa5d2c342" sshConfig="dzyao@222.20.94.68:50013 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="dzyao@222.20.94.68:50014 key" remoteFilesAllowedToDisappearOnAutoupload="false" confirmBeforeUploading="false">
+    <option name="confirmBeforeUploading" value="false" />
+    <serverData>
+      <paths name="3090">
+        <serverdata>
+          <mappings>
+            <mapping deploy="fed_lowrank" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="dzyao@222.20.94.68:50014 key">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/dzyao/wnpan/lowrank_feddf" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="node10">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/dzyao/wnpan/lowrank_feddf" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="node11">
+        <serverdata>
+          <mappings>
+            <mapping deploy="lowrank_feddf" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="node13">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/lowrank_feddf" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="node15">
+        <serverdata>
+          <mappings>
+            <mapping deploy="lowrank_feddf" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
